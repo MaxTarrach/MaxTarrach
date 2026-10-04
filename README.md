@@ -1,4 +1,13 @@
-## Hi there 👋
+## Featured Projects
+
+### World Hostility Graph
+<a href="https://hierarchical-edge-bundling.vercel.app/">
+  <img src="images/hostility-graph.png" width="500">
+</a>
+
+Interactive hierarchical edge bundling of 200 years of militarized
+conflicts between nations. Built with D3.js.
+[Live demo](https://hierarchical-edge-bundling.vercel.app/) · [Code](https://github.com/yourname/hierarchical-edge-bundling)
 
 <!--
 **MaxTarrach/MaxTarrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
