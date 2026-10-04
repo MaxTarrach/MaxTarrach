@@ -26,6 +26,14 @@ Data Journalism Piece that explores the issue of overtourism in Palau.Multiple d
 [Live demo](https://hierarchical-edge-bundling.vercel.app/](https://maxtarrach.github.io/d3-svelte-onepager/)) ·
 
 
+
+## Neurechts in Daten
+<a href="https://neurechtsindaten.netlify.app/">
+<img width="800" height="387" alt="ScreenRecording2026-10-04at14 53 27-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/46bc780c-49af-44e2-a9b9-240a42680f17" />
+</a>
+
+Twitter data mining and visualization of the New-Right Network in german speaking countries. Combination of twitter analysis in form of network analysis, content analysis and contextualization of real live events. 
+[Live demo](https://neurechtsindaten.netlify.app/) 
 <!--
 **MaxTarrach/MaxTarrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
