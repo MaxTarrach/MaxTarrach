@@ -1,3 +1,10 @@
+Hi, my name is Max and I am a Data-Professional from 
+Düsseldorf, Germany.
+
+In my work i combine technical skills with a good sense for helping users gathering insights. My projects span business 
+(finance and sales), the social world (history and politics) and 
+occasionally personal data. 
+
 ## Featured Projects
 
 ### World Hostility Graph
