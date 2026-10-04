@@ -2,12 +2,13 @@
 
 ### World Hostility Graph
 <a href="https://hierarchical-edge-bundling.vercel.app/">
-  <img src="images/hostility-graph.png" width="500">
+  <img width="1440" height="696" alt="Screenshot 2026-10-04 at 12 09 40" src="https://github.com/user-attachments/assets/d8163cb3-3d87-4d3a-9ef2-70a513c88df1" />
+
 </a>
 
 Interactive hierarchical edge bundling of 200 years of militarized
 conflicts between nations. Built with D3.js.
-[Live demo](https://hierarchical-edge-bundling.vercel.app/) · [Code](https://github.com/yourname/hierarchical-edge-bundling)
+[Live demo](https://hierarchical-edge-bundling.vercel.app/) ·
 
 <!--
 **MaxTarrach/MaxTarrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
