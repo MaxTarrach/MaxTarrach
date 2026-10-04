@@ -17,6 +17,17 @@ Interactive hierarchical edge bundling of 200 years of militarized
 conflicts between nations. Built with D3.js.
 [Live demo](https://hierarchical-edge-bundling.vercel.app/) ·
 
+
+https://maxtarrach.github.io/d3-svelte-onepager/
+## Overtourism in Palau
+<a href="https://maxtarrach.github.io/d3-svelte-onepager/">
+  <img width="800" height="387" alt="ScreenRecording2026-10-04at14 05 25-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/63894b5c-7389-438d-a7a5-9d46064410ca" />
+</a>
+
+Data Journalism Piece that explores the issue of overtourism in Palau.Multiple data sources are used to show where tourists come from, why they come and why thats a big issue for the small population of Palau. Built with Svelte and D3 js for the Pacific Dataviz Contest.
+[Live demo](https://hierarchical-edge-bundling.vercel.app/](https://maxtarrach.github.io/d3-svelte-onepager/)) ·
+
+
 <!--
 **MaxTarrach/MaxTarrach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
