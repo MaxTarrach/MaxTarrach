@@ -23,7 +23,7 @@ conflicts between nations. Built with D3.js.
 </a>
 
 Data Journalism Piece that explores the issue of overtourism in Palau.Multiple data sources are used to show where tourists come from, why they come and why thats a big issue for the small population of Palau. Built with Svelte and D3 js for the Pacific Dataviz Contest.
-[Live demo](https://hierarchical-edge-bundling.vercel.app/](https://maxtarrach.github.io/d3-svelte-onepager/)) ·
+[Live demo](https://maxtarrach.github.io/d3-svelte-onepager/) ·
 
 
 
