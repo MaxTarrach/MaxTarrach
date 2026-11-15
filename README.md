@@ -1,6 +1,6 @@
-Hi, my name is Max and I am a Data Professional from Düsseldorf, Germany.
+Hi, my name is Max and I am a Data Professional from Düsseldorf, Germany, with a focus on data visualization.
 
-In my work I combine technical skills with a good sense for helping users gain insights. My projects span business (finance and sales), the social world (history and politics) and occasionally personal data.
+In my work I combine technical skills with a good sense for helping users gain insights. Most of all, I design interactive visualizations that make complex data explorable, from mapping thousands of molecules in bioinformatics to untangling political and historical networks. My projects span business (finance and sales), the social world (history and politics), science (bioinformatics) and occasionally personal data.
 
 Check out my website: [mtarrach.com](https://mtarrach.com/)
 
