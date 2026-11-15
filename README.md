@@ -8,10 +8,10 @@ Check out my website: [mtarrach.com](https://mtarrach.com/)
 
 | Project | Repository | Portfolio | Live Demo |
 |---|---|---|---|
-| **MuMeVis** – Metabolomics Visualization | [GitHub](https://github.com/MaxTarrach/Thesis_1) | [Case Study](LINK) | [Demo](LINK) |
-| **Overtourism in Palau** | [GitHub](LINK) | [Case Study](LINK) | [Demo](LINK) |
-| **World Hostility Graph** | [GitHub](LINK) | [Case Study](LINK) | [Demo](LINK) |
-| **Neurecht in Daten** | [GitHub](LINK) | [Case Study](LINK) | [Demo](LINK) |
+| **MuMeVis** – Metabolomics Visualization | [GitHub](https://github.com/MaxTarrach/Thesis_1) | [Case Study](LINK) | [Demo](https://thesis-1.vercel.app/) |
+| **Overtourism in Palau** | [GitHub](https://github.com/MaxTarrach/d3-svelte-onepager) | [Case Study](https://mtarrach.com/projects/palau) | [Demo](https://maxtarrach.github.io/d3-svelte-onepager/) |
+| **World Hostility Graph** | [GitHub](https://github.com/MaxTarrach/World-Hostility-Graph) | [Case Study](https://mtarrach.com/projects/whg) | [Demo](https://hierarchical-edge-bundling.vercel.app/) |
+| **Neurecht in Daten** | [GitHub](-) | [Case Study](https://mtarrach.com/projects/neurechts-in-daten) | [Demo](https://neurechtsindaten.netlify.app/) |
 
 
 ### MuMeVis - Metabolomics Visualization
