@@ -9,7 +9,8 @@ occasionally personal data.
 
 ### MuMeVis - Metabolomics Visualization
 <a href="https://hierarchical-edge-bundling.vercel.app/">
-<img width="800" height="387" alt="ScreenRecording2026-10-04at14 05 25-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/63894b5c-7389-438d-a7a5-9d46064410ca" />
+<img width="1438" height="699" alt="Screenshot 2026-11-15 at 13 53 05" src="https://github.com/user-attachments/assets/ad30deb7-caa0-464c-b07c-3b58016313c3" />
+
 </a>
 
 ### World Hostility Graph
