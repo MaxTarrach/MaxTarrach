@@ -7,6 +7,9 @@ occasionally personal data.
 
 ## Featured Projects
 
+### MuMeVis - Metabolomics Visualization
+<a href="https://hierarchical-edge-bundling.vercel.app/](https://thesis-1.vercel.app/">
+
 ### World Hostility Graph
 <a href="https://hierarchical-edge-bundling.vercel.app/">
   <img width="1440" height="696" alt="Screenshot 2026-10-04 at 12 09 40" src="https://github.com/user-attachments/assets/d8163cb3-3d87-4d3a-9ef2-70a513c88df1" />
