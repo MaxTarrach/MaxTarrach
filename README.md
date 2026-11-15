@@ -10,10 +10,11 @@ occasionally personal data.
 ### MuMeVis - Metabolomics Visualization
 <a href="https://hierarchical-edge-bundling.vercel.app/">
 <img width="1438" height="699" alt="Screenshot 2026-11-15 at 13 53 05" src="https://github.com/user-attachments/assets/ad30deb7-caa0-464c-b07c-3b58016313c3" />
+</a>
 
 Metabolomics exploration app that fascilitates AI to match fluid samples to a database of around 21000 compounds.
 [Live demo](https://thesis-1.vercel.app/) ·
-</a>
+
 
 ### World Hostility Graph
 <a href="https://hierarchical-edge-bundling.vercel.app/">
